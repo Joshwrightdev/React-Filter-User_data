@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Filter-User_data/static/css/main.25466259.chunk.css",
+    "main.js": "/React-Filter-User_data/static/js/main.58463d5f.chunk.js",
+    "main.js.map": "/React-Filter-User_data/static/js/main.58463d5f.chunk.js.map",
+    "runtime-main.js": "/React-Filter-User_data/static/js/runtime-main.a1a75beb.js",
+    "runtime-main.js.map": "/React-Filter-User_data/static/js/runtime-main.a1a75beb.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/React-Filter-User_data/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.5fe14816.chunk.js": "/React-Filter-User_data/static/js/2.5fe14816.chunk.js",
+    "static/js/2.5fe14816.chunk.js.map": "/React-Filter-User_data/static/js/2.5fe14816.chunk.js.map",
+    "index.html": "/React-Filter-User_data/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/React-Filter-User_data/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.25466259.chunk.css.map": "/React-Filter-User_data/static/css/main.25466259.chunk.css.map",
+    "static/js/2.5fe14816.chunk.js.LICENSE.txt": "/React-Filter-User_data/static/js/2.5fe14816.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1a75beb.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.5fe14816.chunk.js",
+    "static/css/main.25466259.chunk.css",
+    "static/js/main.58463d5f.chunk.js"
+  ]
+}
